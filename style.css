@@ -1,0 +1,217 @@
+@import url('https://fonts.googleapis.com/css2?family=Quantico:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+nav{
+background-color: #272C3D;
+}
+.a1{
+    font-family: Quantico;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28.6px;
+    color: #FF9C28; 
+    margin-left: 100px;   
+}
+.a2{
+    font-family: Quantico;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28.6px;
+    color: white;    
+}
+.a3{
+    font-family: Quantico;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28.6px;
+    color: white;    
+}
+.a4{
+    font-family: Quantico;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28.6px;
+    color: white;    
+}
+ul{
+display: flex;
+gap: 50px;
+}
+li{
+list-style-type: none;
+}
+a{
+text-decoration: none;
+}
+.container{
+padding: 20px 20px;
+display: flex;
+align-items: center;
+}
+.a2:hover{
+color: #FF9C28;
+}
+.a3:hover{
+    color: #FF9C28;
+    }
+    .a4:hover{
+        color: #FF9C28;
+        }
+input{
+background-color: #404864;
+border: none;
+width: 190px;
+height: 30px;
+margin-left:220px;
+}
+.log{
+position: relative;
+}
+.im{
+position: absolute;
+right: 490px;
+bottom: 20px;
+}
+.i1{
+margin-top: 15px;
+}
+select{
+width: 130px;
+height: 30px;
+margin-left: 150px;
+background-color: #00000080;
+color: white;
+border: none;
+font-family: Quantico;
+font-size: 14px;
+font-weight: 400;
+line-height: 20.02px;
+}
+header{
+background-image: url(images/Bg.svg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+width: 100%;
+height: 900px;
+}
+.x1{
+    font-family: Quantico;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 34.32px;
+    color: white;    
+    padding-top: 745px;
+    padding-left: 667px;
+}
+.p1{
+    font-family: Quantico;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20.02px;
+    color: white;
+    padding-left: 635px;
+}
+.x2{
+    font-family: Quantico;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 45.76px;
+    color: white;
+    margin-left: 615px;
+}
+.hero{
+background-color: black;
+}
+.i2{
+margin-left: 380px;
+}
+.img{
+gap: 30px;
+}
+.container3{
+background-color: #1B1E27;
+padding: 30px 50px;
+margin-left: 150px;
+margin-right: 150px;
+padding-bottom: 180px;
+}
+.x3{
+    font-family: Quantico;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 34.32px;
+    color: white;    
+}
+.p2{
+    width: 323px;
+    height: 234px;
+    color: white;
+}
+.card ,.card2{
+display: flex;
+gap: 50px;
+margin-top: 30px;
+}
+.x4{
+color: white;
+font-family: Quantico;
+font-size: 24px;
+font-weight: 400;
+line-height: 34.32px;
+margin-top: 140px;
+}
+.p3{
+color: white;
+width: 323px;
+height: 234px;
+}
+h2{
+    font-family: Quantico;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20.02px;
+    color: white;    
+}
+.row{
+display: flex;
+align-items: center;
+margin-top: 60px;
+}
+.container4{
+display: flex;
+align-items: center;
+padding: 20px 25px;
+}
+footer{
+background-color: #272C3D;
+width: 100%;
+height: 70px;
+}
+.q1{
+    font-family: Quantico;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28.6px;
+    color: #FF9C28;   
+    margin-left: 800px; 
+}
+.q2 ,.q3,.q4{
+    font-family: Quantico;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28.6px;
+    color: white;    
+}
+.q2:hover{
+color: #FF9C28;
+}
+.q3:hover{
+    color: #FF9C28;
+    }
+    .q4:hover{
+        color: #FF9C28;
+        }
